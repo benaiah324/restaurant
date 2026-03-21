@@ -1,5 +1,6 @@
 import './style.css';
 import logoUrl from './assets/logo2.png'; 
+import createHome from './home.js';
 
 
 const content = document.getElementById('content');
