@@ -2,6 +2,7 @@ import './style.css';
 import logoUrl from './assets/logo2.png'; 
 import createHome from './home.js';
 import createMenu from './menu.js';
+import createContact from './contact.js';
 
 
 const content = document.getElementById('content');
